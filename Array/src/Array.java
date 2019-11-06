@@ -120,7 +120,8 @@ public class Array<E> {
             data[i-1]=data[i];
         }
         size--;
-        if(size==data.length/4){
+        //此处要防止缩减到1时无法创建容量为0的数组
+        if(size==data.length/4&&data.length/2!=0){
             data=resize(data.length/2);
         }
         return ret;
