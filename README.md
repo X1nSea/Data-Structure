@@ -12,6 +12,7 @@
 | :------: | :----------------------------------------------------------: |
 | 栈和队列 | [栈-源码](https://github.com/Xinlh/Data-Structure/tree/master/Stack) [队列-源码](https://github.com/Xinlh/Data-Structure/tree/master/Queue) |
 |   链表   | [源码](https://github.com/Xinlh/Data-Structure/tree/master/LinkedList) |
+|  二叉树  | [源码](https://github.com/Xinlh/Data-Structure/tree/master/BST) |
 
 ------
 
